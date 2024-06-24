@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theabsoluteray.theabsoluteray" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=hey+!+Im ray;+just a random programer;" />
+    <img src="https://avatars.githubusercontent.com/u/120208761?v=4" />
 </h1>
 <br/>
 
