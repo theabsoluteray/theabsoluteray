@@ -1,8 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theabsoluteray.theabsoluteray" />
-
-<h1 align="center">
-    <h2 align="center>im ray</h2> 
-</h1>
+    <h2 align="center">im ray</h2> 
 <br/>
 
 <div align="center">
