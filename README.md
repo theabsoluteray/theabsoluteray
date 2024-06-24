@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theabsoluteray.theabsoluteray" />
 
 <h1 align="center">
-    <img src="https://avatars.githubusercontent.com/u/120208761?v=4" alt="Avatar" style="border-radius:50%;"/>
+    <img src="https://avatars.githubusercontent.com/u/120208761?v=4" alt="Avatar" style="border-radius: 50%;">
 </h1>
 <br/>
 
