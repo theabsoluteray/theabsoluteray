@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  I’m currently learning **Docker**
+  I’m currently learning **javascript**
  </div>
  
 <div align="center"> 
