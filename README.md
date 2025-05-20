@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  I’m currently learning **javascript**
+  I’m currently learning **ts**
  </div>
  
 <div align="center"> 
