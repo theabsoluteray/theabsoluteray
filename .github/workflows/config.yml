@@ -14,12 +14,12 @@ on:
   push:
     branches:
     - main
-<<<<<<< HEAD
+
  
 permissions:
   contents: write
-=======
->>>>>>> parent of 5dcef9b (bleh)
+
+
 
 # The sequence of runs in this workflow:
 jobs:
