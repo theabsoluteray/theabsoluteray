@@ -34,7 +34,7 @@
       </p>
     </td>
     <td align="center" style="padding:10px 14px 10px 6px;">
-      <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/splash/10000073.png" width="230" style="border-radius:18px; border:2px solid #BBF7D0;" alt="nahida — dendro archon" />
+      <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000073.png" width="150" style="border-radius:50%; border:5px solid #4ADE80; box-shadow:0 0 24px rgba(74,222,128,0.55);" alt="nahida — dendro archon" />
     </td>
   </tr>
 </table>
@@ -44,29 +44,29 @@
 <table align="center">
   <tr>
     <td align="center" width="300" style="padding:16px 10px; border:2px solid #7DD3FC; border-radius:18px;">
+      <p><img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000016.png" width="90" style="border-radius:50%; border:4px solid #38BDF8; box-shadow:0 0 14px rgba(56,189,248,0.4);" alt="barbara — hydro bard" /></p>
       <p><b>languages</b> <span style="color:#0E7490;">· with barbara</span></p>
       <p><img src="https://skillicons.dev/icons?i=python,c,rust,ts" /></p>
-      <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/splash/10000016.png" width="150" style="border-radius:12px;" alt="barbara — hydro bard" />
     </td>
     <td align="center" width="300" style="padding:16px 10px; border:2px solid #99F6E4; border-radius:18px;">
+      <p><img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000002.png" width="90" style="border-radius:50%; border:4px solid #2DD4BF; box-shadow:0 0 14px rgba(45,212,191,0.4);" alt="ayaka — cryo princess" /></p>
       <p><b>frontend</b> <span style="color:#0F766E;">· with ayaka</span></p>
       <p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /></p>
-      <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/splash/10000002.png" width="150" style="border-radius:12px;" alt="ayaka — cryo princess" />
     </td>
   </tr>
   <tr>
     <td align="center" width="300" style="padding:16px 10px; border:2px solid #C4B5FD; border-radius:18px;">
-      <p><b>data</b> <span style="color:#5B21B6;">· with mona</span></p>
+      <p><img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000041.png" width="90" style="border-radius:50%; border:4px solid #A78BFA; box-shadow:0 0 14px rgba(167,139,250,0.4);" alt="mona — astrologist" /></p>
+      <p><b>data</b> <span style="color:#6D28D9;">· with mona</span></p>
       <p>
         <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
         <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
       </p>
-      <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/splash/10000041.png" width="150" style="border-radius:12px;" alt="mona — astrologist" />
     </td>
     <td align="center" width="300" style="padding:16px 10px; border:2px solid #FDBA74; border-radius:18px;">
-      <p><b>tools</b> <span style="color:#C2410C;">· with klee</span></p>
+      <p><img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000024.png" width="90" style="border-radius:50%; border:4px solid #FB923C; box-shadow:0 0 14px rgba(251,146,60,0.4);" alt="klee — spark knight" /></p>
+      <p><b>tools</b> <span style="color:#9A3412;">· with klee</span></p>
       <p><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" /></p>
-      <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/splash/10000024.png" width="150" style="border-radius:12px;" alt="klee — spark knight" />
     </td>
   </tr>
 </table>
@@ -97,6 +97,32 @@
       src="https://streak-stats.demolab.com?user=theabsoluteray&background=FFFFFF&hide_border=true&stroke=16A34A&ring=16A34A&fire=4ADE80&currStreakNum=166534&sideNums=166534&currStreakLabel=16A34A&sideLabels=16A34A&dates=65A30D&border_radius=14"
     />
   </picture>
+</p>
+
+---
+
+## my party
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000073.png">
+    <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000073.png" width="76" style="border-radius:50%; border:4px solid #4ADE80; box-shadow:0 0 12px rgba(74,222,128,0.5);" alt="nahida" />
+  </a>
+  <a href="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000016.png">
+    <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000016.png" width="76" style="border-radius:50%; border:4px solid #38BDF8; box-shadow:0 0 12px rgba(56,189,248,0.5);" alt="barbara" />
+  </a>
+  <a href="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000002.png">
+    <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000002.png" width="76" style="border-radius:50%; border:4px solid #2DD4BF; box-shadow:0 0 12px rgba(45,212,191,0.5);" alt="ayaka" />
+  </a>
+  <a href="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000041.png">
+    <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000041.png" width="76" style="border-radius:50%; border:4px solid #A78BFA; box-shadow:0 0 12px rgba(167,139,250,0.5);" alt="mona" />
+  </a>
+  <a href="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000024.png">
+    <img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/icon/10000024.png" width="76" style="border-radius:50%; border:4px solid #FB923C; box-shadow:0 0 12px rgba(251,146,60,0.5);" alt="klee" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>nahida · barbara · ayaka · mona · klee</sub>
 </p>
 
 ---
