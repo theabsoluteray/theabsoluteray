@@ -26,10 +26,10 @@
 
 <p align="center"><img src="https://img.shields.io/badge/COMMISSIONS-750E21?style=flat" alt="commissions" /></p>
 
-<p align="left"><b>★★★★★</b> <a href="https://github.com/theabsoluteray/rexpaper">rexpaper</a> — a wallpaper manager built with <b>Rust</b> and <b>Slint</b></p>
-<p align="left"><b>★★★★☆</b> <a href="https://github.com/theabsoluteray/Arch">Arch</a> — a multipurpose <b>Discord bot</b> (Python)</p>
-<p align="left"><b>★★★★☆</b> <a href="https://github.com/theabsoluteray/Rich-presence-">Rich-presence-</a> — rich presence that keeps your Discord alive</p>
-<p align="left"><b>★★★☆☆</b> <a href="https://github.com/theabsoluteray/multiple-bot-tokens-in-one">multiple-bot-tokens-in-one</a> — run a bunch of bot tokens from one script</p>
+<p align="left"><img src="https://img.shields.io/badge/★★★★★-CDA66D?style=flat" alt="★★★★★" /> <a href="https://github.com/theabsoluteray/rexpaper"><img src="https://img.shields.io/badge/rexpaper-750E21?style=flat&logo=github&logoColor=CDA66D" alt="rexpaper" /></a> — a wallpaper manager built with <b>Rust</b> and <b>Slint</b></p>
+<p align="left"><img src="https://img.shields.io/badge/★★★★☆-CDA66D?style=flat" alt="★★★★☆" /> <a href="https://github.com/theabsoluteray/Arch"><img src="https://img.shields.io/badge/Arch-750E21?style=flat&logo=github&logoColor=CDA66D" alt="Arch" /></a> — a multipurpose <b>Discord bot</b> (Python)</p>
+<p align="left"><img src="https://img.shields.io/badge/★★★★☆-CDA66D?style=flat" alt="★★★★☆" /> <a href="https://github.com/theabsoluteray/Rich-presence-"><img src="https://img.shields.io/badge/Rich--presence---750E21?style=flat&logo=github&logoColor=CDA66D" alt="Rich-presence-" /></a> — rich presence that keeps your Discord alive</p>
+<p align="left"><img src="https://img.shields.io/badge/★★★☆☆-CDA66D?style=flat" alt="★★★☆☆" /> <a href="https://github.com/theabsoluteray/multiple-bot-tokens-in-one"><img src="https://img.shields.io/badge/multiple--bot--tokens--in--one-750E21?style=flat&logo=github&logoColor=CDA66D" alt="multiple-bot-tokens-in-one" /></a> — run a bunch of bot tokens from one script</p>
 
 <p align="left">...and more random commissions — <a href="https://github.com/theabsoluteray?tab=repositories">view all</a></p>
 
