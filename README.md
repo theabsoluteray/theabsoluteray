@@ -1,6 +1,8 @@
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=theabsoluteray.theabsoluteray&left_color=750E21&right_color=CDA66D" alt="profile views" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/theabsoluteray/theabsoluteray/main/assets/arle-hero.png" width="100%" alt="arlecchino — the knave" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ScobbleQ/HoYo-Assets/main/genshin/splash/10000096.png" width="100%" alt="arlecchino — the knave" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/theabsoluteray/theabsoluteray/main/assets/arle-bg.svg" width="100%" alt="crimson band" /></p>
 
 <p align="center"><img alt="hi, i'm ray" src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=30&center=true&vCenter=true&width=780&height=70&duration=2800&pause=1300&color=CDA66D&lines=hi,+i%27m+ray;i+build+stuff+for+fun;discord+bots+%C2%B7+web+apps+%C2%B7+desktop+toys;always+learning+something+new" /></p>
 

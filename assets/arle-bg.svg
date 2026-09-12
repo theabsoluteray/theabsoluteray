@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="256" viewBox="0 0 2048 256" role="img" aria-label="arlecchino crimson background">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2b0510"/>
+      <stop offset="0.4" stop-color="#5c0d1c"/>
+      <stop offset="0.68" stop-color="#750e21"/>
+      <stop offset="1" stop-color="#8f1a2c"/>
+    </linearGradient>
+    <radialGradient id="ember" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="2048" height="256" fill="url(#bg)"/>
+
+  <g fill="url(#ember)">
+    <circle cx="180" cy="80" r="6"/>
+    <circle cx="400" cy="200" r="5"/>
+    <circle cx="580" cy="120" r="7"/>
+    <circle cx="750" cy="220" r="5"/>
+    <circle cx="140" cy="160" r="6"/>
+    <circle cx="620" cy="50" r="4"/>
+    <circle cx="880" cy="180" r="5"/>
+    <circle cx="1100" cy="70" r="6"/>
+  </g>
+
+  <line x1="0" y1="3" x2="2048" y2="3" stroke="#cda66d" stroke-width="6"/>
+  <line x1="0" y1="253" x2="2048" y2="253" stroke="#cda66d" stroke-width="6"/>
+</svg>
